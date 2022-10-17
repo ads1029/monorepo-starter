@@ -1,12 +1,11 @@
-import CommonUi from 'libs/common-ui/src/lib/common-ui';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import styles from './app.module.css';
 import NxWelcome from './nx-welcome';
 
 export function App() {
   return (
     <>
-      <CommonUi></CommonUi>
-      <NxWelcome title="web-01" />
+      <NxWelcome title="web-02" />
       <div />
     </>
   );
