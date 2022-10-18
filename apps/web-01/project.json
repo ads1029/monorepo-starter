@@ -50,7 +50,8 @@
       "defaultConfiguration": "development",
       "options": {
         "buildTarget": "web-01:build",
-        "hmr": true
+        "hmr": true,
+        "port": 4201
       },
       "configurations": {
         "development": {
