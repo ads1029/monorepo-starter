@@ -8,7 +8,9 @@ export function CommonUi(props: CommonUiProps) {
     <div className={styles['container']}>
       <h1 className="text-5xl">Welcome to CommonUi!</h1>
       {/* <h1>here is a newly added line</h1> */}
-      <div className="text-5xl bg-indigo-500 p-2 font-mono">Hello!</div>
+      <h3 className="text-5xl bg-indigo-500 p-2 font-mono">
+        This line should only be styled in web-01.
+      </h3>
     </div>
   );
 }

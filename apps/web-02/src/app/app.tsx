@@ -5,6 +5,7 @@ export function App() {
   return (
     <>
       <div>
+        <h1>Welcome to Web-02!!</h1>
         <h1>Common UI should not be displayed with style here.</h1>
         <CommonUi />
       </div>
