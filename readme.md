@@ -23,6 +23,8 @@ Nx has integrated with a ton of tools that would be useful for developers during
 
 Even more, it does smart rebuilding, which means whenever there is a change in the code base, only the affected apps would be rebuilt. This feature would become more critical in the future once the monorepo scales.
 
+Theoretically, Nx should take over all the possible commands from creating a new project, adding dependencies, to building all projects with `$ Nx .
+
 ## Repo structure
 
 This monorepo contains 2 template web projects, <s> 1 mobile app project... </s> (currently not working), and a common used component library.
