@@ -25,4 +25,22 @@ Even more, it does smart rebuilding, which means whenever there is a change in t
 
 ## Repo structure
 
-This monorepo contains 2 template web projects, 1 mobile app project(currently not working), and a common used component library.
+This monorepo contains 2 template web projects, <s> 1 mobile app project... </s> (currently not working), and a common used component library.
+
+## Deployment
+
+Both web projects are deployed on Netlify:
+
+### _[web-01-demo](https://web-01-demo.netlify.app)_
+
+### _[web-02-demo](https://web-02-demo.netlify.app)_
+
+---
+
+## Something more...
+
+### automation deployment
+
+### CI/CD
+
+### automation testing
